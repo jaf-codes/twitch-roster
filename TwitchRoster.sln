@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roster", "Roster\Roster.csproj", "{A1B191D1-F849-4144-A124-37DA90E013CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B191D1-F849-4144-A124-37DA90E013CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B191D1-F849-4144-A124-37DA90E013CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B191D1-F849-4144-A124-37DA90E013CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B191D1-F849-4144-A124-37DA90E013CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4F78D4-98D6-409C-9267-4A1F8D82AA24}
+	EndGlobalSection
+EndGlobal

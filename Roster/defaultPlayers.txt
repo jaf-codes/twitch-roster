@@ -1,0 +1,7 @@
+Pathfyndir
+Pathluzir
+Pathflyndir
+Pathfryndir
+Pathfinedoor
+Pathfounddoor
+Pathholdthedoor
